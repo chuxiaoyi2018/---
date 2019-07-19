@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "它怎么能这么好玩！",
+  "usingComponents": {
+    "van-rate": "/pages/dist/rate/index"
+  }
+}

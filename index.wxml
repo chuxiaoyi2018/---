@@ -1,0 +1,9 @@
+<view class="container">
+<view class="img_wrap">
+    <image src="/image/cat.png" mode='aspectFit'/>
+</view>
+<button bindtap="videoSelect" class="up">选择视频</button>
+<button bindtap="upload" class="up">开始上传</button>
+<text class='baikeform'>是不是觉得有意思极了！</text>
+ </view>
+ 
